@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there!+I+'m+Kumar+Mohit+Welcome+to+my+GitHub+profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;Let's+build+something+amazing+together!)
+![Header Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kumar+Mohit;+Welcome+to+my+GitHub+profile!)
 
 ---
 
@@ -68,7 +68,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 ## 🎉 Fun Fact
 
-![Fun Fact](https://readme-jokes.vercel.app/api?theme=radical)
+**Did you know that broken promises are like empty GitHub repositories? Full of potential, but ultimately disappointing. And yet, here I am, still checking for updates that will never come. Missing her is like waiting for a merge request from a branch that no longer exists.**
+
+---
 
 ---
 
