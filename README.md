@@ -20,7 +20,7 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=dart&logoColor=white" alt="Numpy">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -45,13 +45,10 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 <div align="center">
   <a href="mailto:kumarmohitsspn969@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/kumar-mohit-20324827b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
 </div>
 
@@ -69,8 +66,6 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 ## 🎉 Fun Fact
 
 **Did you know that broken promises are like empty GitHub repositories? Full of potential, but ultimately disappointing. And yet, here I am, still checking for updates that will never come. Missing her is like waiting for a merge request from a branch that no longer exists.**
-
----
 
 ---
 
