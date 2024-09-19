@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm Kumar Mohit, a passionate developer who loves to learn and create innovative solutions. Currently exploring the world of app development with Flutter!
+I'm Kumar Mohit, a passionate developer who loves to learn and create innovative solutions. Currently exploring the world of Data Science & Machine Learning!
 
 ---
 
