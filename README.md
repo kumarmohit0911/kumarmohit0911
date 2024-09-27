@@ -41,6 +41,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://en.cppreference.com/w/c/language" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
+  </a>
 </p>
 
 ---
