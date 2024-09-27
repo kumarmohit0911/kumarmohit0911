@@ -67,7 +67,20 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/kumarmohit0911" target="_blank">
+    <img src="https://img.shields.io/badge/C%20-40%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C - 40%">
+  </a>
+  <a href="https://github.com/kumarmohit0911" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-30%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ - 30%">
+  </a>
+  <a href="https://github.com/kumarmohit0911" target="_blank">
+    <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - 20%">
+  </a>
+  <a href="https://github.com/kumarmohit0911" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-10%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart - 10%">
+  </a>
+</p>
 ---
 
 ## 🎉 Fun Fact
