@@ -17,12 +17,6 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 ## 🔥 My Skills
 
 <p align="center">
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=dart&logoColor=white" alt="Numpy">
   </a>
