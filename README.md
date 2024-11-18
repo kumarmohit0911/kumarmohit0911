@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kumar+Mohit;+Welcome+to+my+GitHub+profile!)
+![Header Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kumar+Mohit+.+;+Welcome+to+my+GitHub+profile!)
 
 
 👀 ![Profile Views](https://komarev.com/ghpvc/?username=kumarmohit0911&color=orange&style=flat)
