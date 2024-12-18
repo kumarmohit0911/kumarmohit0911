@@ -14,6 +14,20 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 ## 🔥 My Skills
 
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://en.cppreference.com/w/c/language" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+</p>
+
+### 📊 Data Analysis & Visualization
 <p align="center">
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=dart&logoColor=white" alt="Numpy">
@@ -24,26 +38,25 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-2C5FAB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="https://en.cppreference.com/w/c/language" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
-    <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
-  </a>
   <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
     <img src="https://img.shields.io/badge/EDA-ffac33?style=for-the-badge&logo=data&logoColor=white" alt="EDA">
   </a>
+</p>
+
+### 🌐 Frameworks & Tools
+<p align="center">
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
+</p>
+
+### 🔷 Other Skills
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
   </a>
 </p>
 
