@@ -2,9 +2,7 @@
 
 ![Header Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kumar+Mohit.+;+Welcome+to+my+GitHub+profile!)
 
-
 👀 ![Profile Views](https://komarev.com/ghpvc/?username=kumarmohit0911&color=orange&style=flat)
-
 
 ---
 
@@ -38,6 +36,15 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
     <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/EDA-ffac33?style=for-the-badge&logo=data&logoColor=white" alt="EDA">
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
 </p>
 
 ---
@@ -61,11 +68,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <img src="https://github-readme-stats.vercel.app/api?username=kumarmohit0911&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmohit0911&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🎉 Fun Fact
 
 **Did you know that broken promises are like empty GitHub repositories? Full of potential, but ultimately disappointing. And yet, here I am, still checking for updates that will never come. Missing her is like waiting for a merge request from a branch that no longer exists.**
-
----
-
