@@ -53,16 +53,19 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   </a>
 </p>
 
-### 🔷 Other Skills
+### 🔶 Other Skills
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
     <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📧 Connect with Me
 
 <div align="center">
   <a href="mailto:kumarmohitsspn969@gmail.com">
