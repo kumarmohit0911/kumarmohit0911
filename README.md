@@ -61,7 +61,14 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy">
+  </a>
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NLTK-8DA0CB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
+  </a>
 </p>
+
 
 ---
 
