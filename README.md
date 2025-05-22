@@ -30,7 +30,7 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 ### 📊 Data Analysis & Visualization
 <p align="center">
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=dart&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -51,6 +51,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </a>
 </p>
 
 ### 🔶 Other Skills
@@ -68,7 +71,6 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
     <img src="https://img.shields.io/badge/NLTK-8DA0CB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
   </a>
 </p>
-
 
 ---
 
