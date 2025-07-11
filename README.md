@@ -56,46 +56,24 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   </a>
 </p>
 
+### 🤖 AI & ML Skills
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+    <img src="https://img.shields.io/badge/ML-1E90FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+    <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="NLP">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Learning%20-4CAF50?style=for-the-badge&logo=neural&logoColor=white" alt="ANN">
+  </a>
+</p>
+
+
 ### 🔶 Other Skills
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
     <img src="https://img.shields.io/badge/OOP-ff5733?style=for-the-badge&logo=oop&logoColor=white" alt="OOP">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  </a>
-  <a href="https://spacy.io/" target="_blank">
-    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy">
-  </a>
-  <a href="https://www.nltk.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NLTK-8DA0CB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
-  </a>
-</p>
-
----
-
-## 📧 Connect with Me
-
-<div align="center">
-  <a href="mailto:kumarmohitsspn969@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/kumar-mohit-20324827b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-## ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmohit0911&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmohit0911&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎉 Fun Fact
-
-**Did you know that broken promises are like empty GitHub repositories? Full of potential, but ultimately disappointing. And yet, here I am, still checking for updates that will never come. Missing her is like waiting for a merge request from a branch that no longer exists.**
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColo
