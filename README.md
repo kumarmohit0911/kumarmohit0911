@@ -98,7 +98,7 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumarmohit0911&show_icons=true&theme=radical" alt="GitHub Stats" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmohit0911&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
