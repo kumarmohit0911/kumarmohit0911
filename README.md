@@ -54,6 +54,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
 </p>
 
 ### 🤖 AI & ML Skills
@@ -65,9 +68,13 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
     <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="NLP">
   </a>
   <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-    <img src="https://img.shields.io/badge/Deep%20Learning%20(ANN)-4CAF50?style=for-the-badge&logo=neural&logoColor=white" alt="ANN">
+    <img src="https://img.shields.io/badge/Deep%20Learning%20(ANN)%20(CNN)-4CAF50?style=for-the-badge&logo=neural&logoColor=white" alt="ANN">
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   </a>
 </p>
+
 
 ### 🔶 Other Skills
 <p align="center">
