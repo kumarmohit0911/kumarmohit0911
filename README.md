@@ -103,6 +103,13 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 ---
 
+## 🧩 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kumar_Mohit?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+
+
+
 ## 🎉 Fun Fact
 
 **Did you know that broken promises are like empty GitHub repositories? Full of potential, but ultimately disappointing. And yet, here I am, still checking for updates that will never come. Missing her is like waiting for a merge request from a branch that no longer exists.**
