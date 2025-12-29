@@ -45,6 +45,9 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 ### 🌐 Frameworks & Tools
 <p align="center">
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   </a>
@@ -58,6 +61,7 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   </a>
 </p>
+
 
 ### 🤖 AI & ML Skills
 <p align="center">
