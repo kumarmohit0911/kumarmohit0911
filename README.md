@@ -77,7 +77,11 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   </a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Generative%20Adversarial%20Networks%20(GANs)-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
+
+
 
 
 ### 🔶 Other Skills
@@ -105,19 +109,28 @@ I'm Kumar Mohit, a passionate developer who loves to learn and create innovative
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Developer Highlights
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarmohit0911&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/kumarmohit0911&style=flat" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/kumarmohit0911?label=Followers&style=flat" />
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/kumarmohit0911?affiliations=OWNER&label=Stars&style=flat" />
+
+  <!-- Monthly Commit Activity -->
+  <img src="https://img.shields.io/github/commit-activity/m/kumarmohit0911?label=Commits%2FMonth&style=flat" />
 </p>
-
-
-## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmohit0911&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmohit0911&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarmohit0911&show_icons=true&theme=radical" />
 </p>
+
 
 ---
 
